@@ -59,8 +59,6 @@ gem "acts_as_list"
 
 gem "mimemagic", "~> 0.3.8"
 
-gem "ombu_labs-auth"
-
 gem "rack-mini-profiler"
 
 group :production do
@@ -110,3 +108,5 @@ gem "coffee-script"
 gem "pundit", "~> 2.2"
 
 gem "madmin", "~> 1.2"
+
+gem "devise", "~> 4.8"
